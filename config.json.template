@@ -1,0 +1,12 @@
+{
+  "owserver_host": "localhost",
+  "owserver_port": "4304",
+  "mqtt_host": "localhost",
+  "sensors": [
+    {
+      "id": "Window Contact Example",
+      "address": "/uncached/3A.000000000000",
+      "attribute": "sensed_A"
+    }
+  ]
+}
